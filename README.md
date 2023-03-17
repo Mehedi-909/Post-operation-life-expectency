@@ -1,2 +1,2 @@
 # Post-operation-life-expectency
-DBMS 2 final project
+Go to the master branch to see the project.
